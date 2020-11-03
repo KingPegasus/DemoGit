@@ -1,7 +1,10 @@
-here is file 1
+here is file 1 changing this ......
 kjwndkwd
 wdkmldwk
 
 I am changing this inside dev branch
+<<<<<<< HEAD
 
 this is same file
+=======
+>>>>>>> 1e9f13b04bba8a0278530c2c7788fe56319b656e
